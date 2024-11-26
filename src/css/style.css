@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.flex {
+  margin: 100px ;
+  padding: 25px;
+
+  justify-content: center;
+  border-radius: 24px;
+  background: url(../images/parede-de-estuque-branco_1194-6992.avif);
+}
+
+img {
+  text-align: center ;
+  border-radius: 24px;
+}
+
+p{ 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto1{
+  margin: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.texto2{
+  margin: 10px 10px 20px 10px;
+  font-size: 20px;
+  text-align: center;
+  color: #757373;
+}
